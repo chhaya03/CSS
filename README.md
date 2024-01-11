@@ -1,3 +1,3 @@
 # CSS
-This is css folder <br>
+This is css repo <br>
 Author-Chhaya Mishra
