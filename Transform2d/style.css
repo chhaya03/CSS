@@ -1,0 +1,11 @@
+.box {
+    background-color: aqua;
+
+    /*this is for any linear path momentum*/
+    transform: translate(100px, 50px);
+
+    /* transform: rotate(45deg);    this is for rotation an object*/
+    margin: 200px;
+    /* transform: scale(3, 20);     this is for zoom in zoom out*/
+    /* transform: skew(75deg); */
+}

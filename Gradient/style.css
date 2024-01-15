@@ -1,0 +1,33 @@
+.lineargradient {
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red, blue);
+    background-image: linear-gradient(to right, red, blue);
+    background-image: linear-gradient(to top left, red, blue);
+}
+
+.radialgradient {
+
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(circle, red, blue, orange);
+    background-image: radial-gradient(circle, red 5%, blue 30%, orange);
+
+}
+
+.conicgradient {
+
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(violet, indigo, black, green, yellow, orange, red);
+}
+
+.flag {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(orange, white, green);
+}
